@@ -1,6 +1,7 @@
 * Bullet point
 1. Luettelo
 2. Luettelo 2
+3. Luettelo
 
 _Italic_
 
